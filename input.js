@@ -1,2 +1,3 @@
-//B2 conflict
 //merge test
+//B2 conflict
+
